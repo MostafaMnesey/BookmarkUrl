@@ -1,7 +1,7 @@
-# BookmarkUrl
+BookmarkUrl
 Route js Assiment
 
-index.html:
+%index.html:%
 This is the HTML file for a Bookmarker web application. It defines the structure of the webpage with:
 
 
@@ -12,7 +12,7 @@ A table placeholder for displaying bookmarks
 Uses custom CSS classes for styling and typography
 
 
-Style.css:
+%Style.css:%
 This is the CSS file that provides styling for the Bookmarker application. It includes:
 
 
@@ -24,7 +24,7 @@ Custom highlight and selection styles
 Responsive and visually appealing design with warm color palette
 
 
-index.js:
+%index.js:%
 This is the JavaScript file that provides functionality for the Bookmarker app. Key features include:
 
 
@@ -36,8 +36,8 @@ Regex-based validation for site name and URL
 Using SweetAlert for user notifications
 Functions for:
 
-addBookmark(): Adds a new bookmark
-displayBookmarks(): Renders bookmarks in the table
-deleteBookmark(): Removes a bookmark
-validate(): Checks input against regex patterns
-validateall(): Performs comprehensive validation before submission
+%addBookmark(): Adds a new bookmark%
+%displayBookmarks(): Renders bookmarks in the table%
+%deleteBookmark(): Removes a bookmark%
+%validate(): Checks input against regex patterns%
+%validateall(): Performs comprehensive validation before submission%
